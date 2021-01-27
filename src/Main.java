@@ -5,8 +5,13 @@ public class Main {
 	System.out.println("making changes through textEdit");
         System.out.println("making more changes through textEdit");
 
+
         System.out.println("here are some other changes at 4:50");
         System.out.println("here are some other changes at 5:23");
+
+        System.out.println("This is the comment from the second clone");
+
+
 
     }
 }
