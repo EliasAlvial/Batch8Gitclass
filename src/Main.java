@@ -5,6 +5,7 @@ public class Main {
 	System.out.println("making changes through textEdit");
         System.out.println("making more changes through textEdit");
 
+<<<<<<< HEAD
         System.out.println("This is the comment from the second clone");
 
 
